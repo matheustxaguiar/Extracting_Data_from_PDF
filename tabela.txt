@@ -1,0 +1,93 @@
+ARTIGO: A comprehensive semantic-based resource allocation framework for workflow management systems.pdf
+RDF:1 | Protege:1 | OWL:5 | ITU:5 | ISO:5 | TMFORUM:5 | DMTF:5 | IETF:5 | F-LOGIC:5 | RDFS:5 | CIM:5 | Accounting:5 | fault:5 | performance:5 | Security:5 | configuration:5 | 
+
+ARTIGO: A framework for modeling and reasoning about network management resources and services to support information reuse.pdf
+RDF:0 | Protege:0 | OWL:0 | ITU:0 | ISO:0 | TMFORUM:0 | DMTF:0 | IETF:0 | F-LOGIC:0 | RDFS:0 | CIM:5 | Accounting:5 | fault:5 | performance:5 | Security:5 | configuration:10 | 
+
+ARTIGO: A multi-layered agent ontology system for resource inventory.pdf
+RDF:0 | Protege:0 | OWL:0 | ITU:1 | ISO:1 | TMFORUM:1 | DMTF:1 | IETF:1 | F-LOGIC:1 | RDFS:1 | CIM:1 | Accounting:1 | fault:2 | performance:3 | Security:3 | configuration:3 | 
+
+ARTIGO: A semantic approach to evaluate the impact of cyber actions on the physical domain.pdf
+RDF:0 | Protege:0 | OWL:7 | ITU:7 | ISO:7 | TMFORUM:7 | DMTF:7 | IETF:8 | F-LOGIC:8 | RDFS:8 | CIM:8 | Accounting:8 | fault:8 | performance:8 | Security:9 | configuration:9 | 
+
+ARTIGO: A semantic model for enhancing network services management and auditing.pdf
+RDF:2 | Protege:2 | OWL:7 | ITU:8 | ISO:8 | TMFORUM:8 | DMTF:8 | IETF:8 | F-LOGIC:8 | RDFS:8 | CIM:8 | Accounting:8 | fault:8 | performance:9 | Security:9 | configuration:9 | 
+
+ARTIGO: A study in the expressiveness of semantically different policy modelling schemes.pdf
+RDF:0 | Protege:0 | OWL:22 | ITU:22 | ISO:22 | TMFORUM:22 | DMTF:22 | IETF:22 | F-LOGIC:22 | RDFS:22 | CIM:22 | Accounting:22 | fault:22 | performance:22 | Security:24 | configuration:24 | 
+
+ARTIGO: An ontology-based approach for semantic interoperability in interorganizational IT service management.pdf
+RDF:0 | Protege:0 | OWL:9 | ITU:9 | ISO:9 | TMFORUM:9 | DMTF:9 | IETF:9 | F-LOGIC:9 | RDFS:10 | CIM:10 | Accounting:10 | fault:12 | performance:12 | Security:12 | configuration:12 | 
+
+ARTIGO: An ontology-based approach to the description and execution of composite network management processes for network monitoring.pdf
+RDF:0 | Protege:0 | OWL:10 | ITU:10 | ISO:10 | TMFORUM:10 | DMTF:10 | IETF:10 | F-LOGIC:10 | RDFS:10 | CIM:11 | Accounting:12 | fault:12 | performance:13 | Security:14 | configuration:16 | 
+
+ARTIGO: An Ontology-Based Information Extraction System for bridging the configuration gap in hybrid SDN environments.pdf
+RDF:0 | Protege:0 | OWL:7 | ITU:7 | ISO:7 | TMFORUM:7 | DMTF:7 | IETF:10 | F-LOGIC:10 | RDFS:10 | CIM:10 | Accounting:10 | fault:10 | performance:16 | Security:16 | configuration:17 | 
+
+ARTIGO: Application of OWL-S to define management interfaces based on Web services.pdf
+RDF:0 | Protege:0 | OWL:0 | ITU:0 | ISO:0 | TMFORUM:0 | DMTF:0 | IETF:0 | F-LOGIC:0 | RDFS:0 | CIM:0 | Accounting:0 | fault:0 | performance:0 | Security:0 | configuration:0 | 
+
+ARTIGO: Composing user network operation services using Web service composition techniques.pdf
+RDF:0 | Protege:0 | OWL:7 | ITU:7 | ISO:7 | TMFORUM:7 | DMTF:7 | IETF:7 | F-LOGIC:7 | RDFS:7 | CIM:7 | Accounting:7 | fault:7 | performance:7 | Security:7 | configuration:14 | 
+
+ARTIGO: Enhancing Event Processing Networks with semantics to enable self-managed SEE federations.pdf
+RDF:18 | Protege:18 | OWL:18 | ITU:18 | ISO:18 | TMFORUM:18 | DMTF:18 | IETF:18 | F-LOGIC:18 | RDFS:19 | CIM:19 | Accounting:19 | fault:19 | performance:23 | Security:23 | configuration:23 | 
+
+ARTIGO: ENM_ A service oriented architecture for ontology-driven network management in heterogeneous network infrastructures.pdf
+RDF:0 | Protege:0 | OWL:3 | ITU:3 | ISO:4 | TMFORUM:4 | DMTF:4 | IETF:4 | F-LOGIC:4 | RDFS:4 | CIM:4 | Accounting:5 | fault:6 | performance:7 | Security:7 | configuration:7 | 
+
+ARTIGO: Implementation and application of a well-founded configuration management ontology.pdf
+RDF:5 | Protege:5 | OWL:30 | ITU:30 | ISO:30 | TMFORUM:30 | DMTF:30 | IETF:30 | F-LOGIC:30 | RDFS:30 | CIM:32 | Accounting:32 | fault:32 | performance:32 | Security:33 | configuration:52 | 
+
+ARTIGO: Integrating heterogeneous IT_network management models using linked data.pdf
+RDF:27 | Protege:27 | OWL:30 | ITU:30 | ISO:30 | TMFORUM:30 | DMTF:32 | IETF:32 | F-LOGIC:32 | RDFS:32 | CIM:46 | Accounting:46 | fault:49 | performance:53 | Security:53 | configuration:54 | 
+
+ARTIGO: Multi-domain fault management architecture based on a Shared ontology-based Knowledge Plane.pdf
+RDF:0 | Protege:0 | OWL:7 | ITU:7 | ISO:7 | TMFORUM:7 | DMTF:7 | IETF:7 | F-LOGIC:7 | RDFS:7 | CIM:7 | Accounting:7 | fault:37 | performance:38 | Security:38 | configuration:40 | 
+
+ARTIGO: Network access control configuration management using semantic web techniques.pdf
+RDF:0 | Protege:0 | OWL:0 | ITU:0 | ISO:0 | TMFORUM:0 | DMTF:0 | IETF:0 | F-LOGIC:0 | RDFS:0 | CIM:0 | Accounting:0 | fault:0 | performance:0 | Security:4 | configuration:4 | 
+
+ARTIGO: New developments in ontology-based policy management- Increasing the practicality and comprehensiveness of KAoS.pdf
+RDF:0 | Protege:0 | OWL:19 | ITU:19 | ISO:19 | TMFORUM:19 | DMTF:19 | IETF:19 | F-LOGIC:19 | RDFS:19 | CIM:19 | Accounting:19 | fault:19 | performance:19 | Security:21 | configuration:27 | 
+
+ARTIGO: Ontological configuration management for wireless mesh routers.pdf
+RDF:0 | Protege:0 | OWL:25 | ITU:25 | ISO:25 | TMFORUM:25 | DMTF:30 | IETF:30 | F-LOGIC:30 | RDFS:31 | CIM:67 | Accounting:67 | fault:67 | performance:68 | Security:69 | configuration:71 | 
+
+ARTIGO: Ontological semantics for distributing contextual knowledge in highly distributed autonomic systems.pdf
+RDF:0 | Protege:0 | OWL:7 | ITU:7 | ISO:7 | TMFORUM:7 | DMTF:9 | IETF:9 | F-LOGIC:9 | RDFS:10 | CIM:25 | Accounting:25 | fault:25 | performance:35 | Security:35 | configuration:35 | 
+
+ARTIGO: Ontology-based information extraction from the configuration command line of network routers.pdf
+RDF:0 | Protege:0 | OWL:1 | ITU:1 | ISO:1 | TMFORUM:1 | DMTF:1 | IETF:2 | F-LOGIC:2 | RDFS:2 | CIM:2 | Accounting:2 | fault:2 | performance:4 | Security:4 | configuration:4 | 
+
+ARTIGO: Ontology-based policy refinement using SWRL rules for management information definitions in OWL.pdf
+RDF:5 | Protege:5 | OWL:15 | ITU:15 | ISO:15 | TMFORUM:15 | DMTF:15 | IETF:16 | F-LOGIC:16 | RDFS:16 | CIM:16 | Accounting:16 | fault:16 | performance:16 | Security:17 | configuration:19 | 
+
+ARTIGO: Ontology-based policy translation.pdf
+RDF:1 | Protege:1 | OWL:3 | ITU:3 | ISO:3 | TMFORUM:3 | DMTF:3 | IETF:3 | F-LOGIC:3 | RDFS:3 | CIM:4 | Accounting:4 | fault:4 | performance:4 | Security:7 | configuration:7 | 
+
+ARTIGO: Ontology-driven automatic construction of bayesian networks for telecommunication network management.pdf
+RDF:0 | Protege:0 | OWL:1 | ITU:1 | ISO:1 | TMFORUM:1 | DMTF:1 | IETF:1 | F-LOGIC:1 | RDFS:1 | CIM:1 | Accounting:1 | fault:2 | performance:7 | Security:7 | configuration:7 | 
+
+ARTIGO: Resolving tactical network management interoperability by using ontology.pdf
+RDF:3 | Protege:3 | OWL:4 | ITU:4 | ISO:4 | TMFORUM:4 | DMTF:4 | IETF:4 | F-LOGIC:4 | RDFS:5 | CIM:5 | Accounting:5 | fault:5 | performance:10 | Security:10 | configuration:11 | 
+
+ARTIGO: Semantic context dissemination and service matchmaking in future network management.pdf
+RDF:7 | Protege:7 | OWL:39 | ITU:39 | ISO:39 | TMFORUM:39 | DMTF:39 | IETF:40 | F-LOGIC:40 | RDFS:40 | CIM:40 | Accounting:40 | fault:40 | performance:55 | Security:55 | configuration:55 | 
+
+ARTIGO: Semantic matching of security policies to support security experts.pdf
+RDF:2 | Protege:2 | OWL:7 | ITU:7 | ISO:7 | TMFORUM:7 | DMTF:7 | IETF:7 | F-LOGIC:7 | RDFS:7 | CIM:7 | Accounting:7 | fault:7 | performance:8 | Security:23 | configuration:24 | 
+
+ARTIGO: SINMS- A slow intelligence network manager based on SNMP protocol.pdf
+RDF:0 | Protege:0 | OWL:1 | ITU:1 | ISO:1 | TMFORUM:1 | DMTF:1 | IETF:1 | F-LOGIC:1 | RDFS:1 | CIM:1 | Accounting:1 | fault:11 | performance:22 | Security:22 | configuration:30 | 
+
+ARTIGO: The STAC (security toolbox- Attacks _ countermeasures) ontology.pdf
+RDF:0 | Protege:0 | OWL:0 | ITU:0 | ISO:0 | TMFORUM:0 | DMTF:0 | IETF:0 | F-LOGIC:0 | RDFS:0 | CIM:0 | Accounting:0 | fault:0 | performance:0 | Security:13 | configuration:13 | 
+
+ARTIGO: Towards an information model that supports service-aware, self-managing virtual resources.pdf
+RDF:0 | Protege:0 | OWL:0 | ITU:0 | ISO:0 | TMFORUM:0 | DMTF:3 | IETF:3 | F-LOGIC:3 | RDFS:3 | CIM:8 | Accounting:8 | fault:8 | performance:8 | Security:8 | configuration:11 | 
+
+ARTIGO: Towards automation for pervasive network security management using an integration of ontology-based and policy-based approaches.pdf
+RDF:0 | Protege:0 | OWL:13 | ITU:13 | ISO:13 | TMFORUM:13 | DMTF:13 | IETF:15 | F-LOGIC:15 | RDFS:16 | CIM:17 | Accounting:17 | fault:17 | performance:17 | Security:24 | configuration:24 | 
+
